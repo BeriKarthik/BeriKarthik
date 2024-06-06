@@ -1,3 +1,4 @@
+-💫 About Me:
 - 👋 Hi, I’m @BeriKarthik
 - 👀 I'm currently working as an Intern at 360DigiTMG.
 - 🌱 I’m passionate about learning, particularly in the fields of Machine Learning and Deep Learning.
